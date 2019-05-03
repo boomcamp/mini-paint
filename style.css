@@ -1,0 +1,90 @@
+body {
+  font-family: 'Press Start 2P', cursive;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+hr {
+  color: #fff;
+  border: none;
+}
+
+div {
+    width: 100%;
+    height: 600px;
+}
+
+div div {
+    width: 1%;
+    height: 2%;
+    outline: 1px solid #fff;
+    float: left;
+    background: black;
+}
+
+.white {
+  background: #fff;
+}
+
+.red {
+  background: red;
+}
+
+.green {
+  background: green;
+}
+
+.blue {
+  background: blue;
+}
+
+.yellow {
+  background: yellow;
+}
+
+.pallette-white {
+  background: white;
+  height: 2%;
+  width: 1%;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.pallette-black {
+  background: black;
+  color: white;
+  height: 2%;
+  width: 1%;
+  padding: 10px;
+}
+
+.pallette-red {
+  background: red;
+  height: 2%;
+  width: 1%;
+  padding: 10px
+}
+
+.pallette-green {
+  background: green;
+  height: 2%;
+  width: 1%;
+  padding: 10px;
+}
+
+.pallette-yellow {
+  background: yellow;
+  height: 2%;
+  width: 1%;
+  padding: 10px;
+}
+
+.pallette-blue {
+  background: blue;
+  height: 2%;
+  width: 1%;
+  padding: 10px;
+}
